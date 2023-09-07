@@ -1,0 +1,25 @@
+.selected {
+  border: solid 2px skyblue;
+  background-color: skyblue;
+  color: white;
+}
+ul {
+  list-style-type: none;
+  background-color: bisque;
+}
+body {
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 10vh;
+border: solid 4px black;
+width: 50vw;
+margin: auto;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3 {
+  background-color: skyblue;
+}
+h1 {
+  background-color: skyblue;
+}
